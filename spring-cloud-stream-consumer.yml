@@ -3,5 +3,5 @@ spring:
       stream:
          bindings:
              input:
-              destination: kafkastream
+              destination: streamkafka
               
